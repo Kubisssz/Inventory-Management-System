@@ -1,19 +1,35 @@
-# Inventory Management System
+# 📦 Inventory Management System  
 
-This is an enhanced version of an inventory management system. The project was initially developed by my friend, and I helped fix issues and improve the system.
+This is an enhanced version of an **Inventory Management System**. Originally developed by my friend, I helped fix issues and improve the system by enhancing its features and optimizing performance.  
 
-## Features
-- **View Inventory**: View all items in the inventory.
-- **Add New Item**: Add new items to the inventory.
-- **Stock In**: Update stock quantities for incoming items.
-- **Stock Out**: Deduct stock quantities for outgoing items.
+---
 
-## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: PHP
-- **Database**: MySQL
+## 🚀 Features  
+- ✅ **View Inventory** – Browse all available items in the inventory.  
+- ✅ **Add New Item** – Easily add new items with relevant details.  
+- ✅ **Stock In** – Update stock quantities when new items arrive.  
+- ✅ **Stock Out** – Deduct stock when items are dispatched.  
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/inventory-management-system.git
+---
+
+## 🛠 Technologies Used  
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: PHP  
+- **Database**: MySQL  
+
+---
+
+## 📸 Project Preview  
+![Inventory Management System](image.png)  
+*Screenshot of the system interface*  
+
+> ⚠ **Note:** Replace `./assets/inventory-preview.png` with the actual path to your image.
+
+---
+
+## 📥 Installation & Setup  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/your-username/inventory-management-system.git
+cd inventory-management-system
