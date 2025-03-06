@@ -23,9 +23,7 @@ This is an enhanced version of an **Inventory Management System**. Originally de
 ![Inventory Management System](image.png)  
 *Screenshot of the system interface*  
 
-> ⚠ **Note:** Replace `./assets/inventory-preview.png` with the actual path to your image.
 
----
 
 ## 📥 Installation & Setup  
 
